@@ -1,5 +1,5 @@
 
-samplefn="00_sample_list.txt"
+samplefn="3_example_sample_list.txt"
 inputfile=file(samplefn)
 line=inputfile.readline()
 
