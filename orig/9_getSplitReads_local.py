@@ -95,7 +95,7 @@ while line:
 	
 	###CONVERT to fasta	
 	print("...convert to fasta")
-	command_convert="python 03_toFasta.py "+sample_id+".splits.temp"
+	command_convert="python 3_toFasta.py "+sample_id+".splits.temp"
 	os.system(command_convert)
 
 	tempfn=sample_id+".splits.temp"
