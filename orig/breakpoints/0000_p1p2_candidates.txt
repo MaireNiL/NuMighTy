@@ -1,0 +1,21 @@
+is_gtfuse_done	distance	priority	num_cluster	index	this_sample_id	sample	cluster_id	num_disc_read	ch1	start1	stop1	ch2	start2	stop2	orien
+tation	read_orientation	Numts	distance	is_numt_involved	normal_similar	normal_similar_gt3	is_normal_overlapping	tumor_similar	tumor_similar_gt3	is_tumor_overlap
+1	168	2	5	1	9c274536-3ca1-4f0e-93a8-1688074d862f	BLCA:9c274536-3ca1-4f0e-93a8-1688074d862f_tumor	cluster19.1	9	MT	16219	16463	3	161285795	161285963	0,1	[9]	HSA_NumtS_163_b1_right	8368694	numt_unlikely	0	0	NA	0	0	t_NA
+1	276	2	5	2	9c274536-3ca1-4f0e-93a8-1688074d862f	BLCA:9c274536-3ca1-4f0e-93a8-1688074d862f_tumor	cluster47.1	9	MT	16113	16312	10	131045	131321	1,0	[9]	HSA_NumtS_370_b1_left	46711752	numt_unlikely	0	0	NA	0	0	t_NA
+1	275	1	5	3	9c274536-3ca1-4f0e-93a8-1688074d862f	BLCA:9c274536-3ca1-4f0e-93a8-1688074d862f_tumor	cluster55.1	49	MT	11174	11448	11	67592479	67592754	0,0/0,1	[36, 13]	HSA_NumtS_400_b1_right	9714548	numt_unlikely	0	0	NA	0	0	t_NA
+1	270	1	5	4	9c274536-3ca1-4f0e-93a8-1688074d862f	BLCA:9c274536-3ca1-4f0e-93a8-1688074d862f_tumor	cluster56.1	53	MT	11139	11438	11	67593972	67594242	1,1	[53]	NA	1000000000	numt_unlikely	0	0	NA	0	0	t_NA
+1	391	2	5	5	9c274536-3ca1-4f0e-93a8-1688074d862f	BLCA:9c274536-3ca1-4f0e-93a8-1688074d862f_tumor	cluster63.2	6	MT	16115	16474	15	93433252	93433643	1,1/0,0	[1, 5]	NA	1000000000	numt_unlikely	0	0	NA	0	0	t_NA
+1	248	2	5	18	CGP_donor_1635843	BOCA:CGP_donor_1635843_tumor	cluster1134.1	5	MT	16157	16346	13	113148928	113149176	1,1	[5]	HSA_NumtS_456_b1_right	-88808855	numt_unlikely	0	0	NA	0	0	t_NA
+1	508	2	5	22	CGP_donor_1635843	BOCA:CGP_donor_1635843_tumor	cluster1155.1	7	MT	16103	16451	13	113920980	113921488	1,1/1,0	[6, 1]	HSA_NumtS_470_b3_left	-17572271	numt_unlikely	0	0	NA	0	0	t_NA
+1	0	1	4	23	CGP_donor_1691121	BOCA:CGP_donor_1691121_tumor	cluster23.4	15	MT	3319	4983	2	101372885	101372885	1,0/0,0	[10, 5]	HSA_NumtS_063_b1_left	-9178411	numt_unlikely	0	0	NA	0	0	t_NA
+1	167	2	58	36	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster369.1	5	MT	16112	16241	1	175336375	175336542	1,1	[5]	HSA_NumtS_034_b1_right	15542649	numt_unlikely	0	0	NA	0	0	t_NA
+1	264	2	58	38	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster581.1	5	MT	15970	16282	2	79515661	79515925	0,0/1,1	[1, 4]	HSA_NumtS_065_b1_left	16049368	numt_unlikely	0	0	NA	0	0	t_NA
+1	289	2	58	41	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster887.1	5	MT	16118	16443	3	24807611	24807900	1,0	[5]	HSA_NumtS_139_b1_left	43900202	numt_unlikely	0	0	NA	0	0	t_NA
+1	143	2	58	45	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster1061.1	5	MT	16125	16408	4	10742399	10742542	1,1	[5]	HSA_NumtS_176_b1_right	20144263	numt_unlikely	0	0	NA	0	0	t_NA
+1	93	2	58	46	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster1183.1	5	MT	16105	16181	4	82052439	82052532	1,0	[5]	HSA_NumtS_194_b1_left	12685952	numt_unlikely	0	0	NA	0	0	t_NA
+1	71	2	58	64	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster2547.1	5	MT	16105	16409	11	43829278	43829349	1,0	[5]	HSA_NumtS_397_b1_left	20125459	numt_unlikely	0	0	NA	0	0	t_NA
+1	321	2	58	69	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster2758.1	5	MT	16104	16294	12	72326988	72327309	1,0	[5]	HSA_NumtS_424_b3_left	-40924939	numt_unlikely	0	0	NA	0	0	t_NA
+1	257	2	58	70	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster2946.1	6	MT	16101	16219	13	83098365	83098622	1,0	[6]	HSA_NumtS_470_b3_left	13250087	numt_unlikely	0	0	NA	0	0	t_NA
+1	326	2	58	82	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster3563.1	5	MT	16075	16253	20	51369627	51369953	1,0	[5]	HSA_NumtS_541_b1_left	-46660064	numt_unlikely	0	0	NA	1	0	UMN
+1	188	2	58	87	CGP_donor_1691150	BOCA:CGP_donor_1691150_tumor	cluster3606.1	5	MT	16126	16201	21	24889520	24889708	1,1	[5]	HSA_NumtS_555_b1_right	21001104	numt_unlikely	0	0	NA	0	0	t_NA
+1	377	2	1	92	CGP_donor_1691217	BOCA:CGP_donor_1691217_tumor	cluster98.1	6	MT	14006	14384	9	22816360	22816737	0,1	[6]	HSA_NumtS_329_b3_right	-17705624	numt_unlikely	0	0	NA	0	0	t_NA
